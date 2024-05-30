@@ -1,2 +1,4 @@
 # WSDA-Music-Data-Analysis
 Analyze WSDA Music's relational database, containing product, customer, employee, and sales data, to uncover insights on sales trends, customer demographics, and service improvement opportunities. Present findings to management to inform strategic business decisions.
+# Project Description
+This project involves analyzing the relational database of WSDA Music, an online retail company specializing in popular music. The database includes comprehensive information on products, customers, employees, and sales. The goal is to extract meaningful insights related to sales trends, customer demographics, and potential areas for service enhancement. Findings from this analysis will be presented to company management to help inform strategic decisions and drive business growth.
